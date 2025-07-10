@@ -1,0 +1,20 @@
+QRCS v1.0.0 Initial Release Note
+==================================
+
+This file marks the first formal release of the Qualified Rotational Kernel Civitas System (QRCS), a governance framework proposed for post-AGI civilization architecture.
+
+Key Details:
+- Title: QRCS v1.0.0
+- Scope: Post-AGI Governance, Rotational Council Model, Federated Stability
+- Submission: RAND Corporation, United Nations (tentative)
+- Primary Hosting: France (proposed via CNRS/ENA/IRIS)
+- License: Open-access, unrestricted reuse (Creative Commons, MIT-compatible)
+
+Included Documents:
+- Full compiled report
+- Executive summary
+- Strategic visualization screenshots
+- License declaration
+
+Initial upload by: Jung WooJin (JungWooJin92Incheon)
+Date: 2025-07-10
